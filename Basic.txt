@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 From local
+=======
+Conflict
+>>>>>>> e33a2982df4592cebe0d95069d5496f5dfeeaff2
